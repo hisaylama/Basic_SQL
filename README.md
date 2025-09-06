@@ -11,7 +11,6 @@ This repository contains practice scripts, queries, and notes from the **MySQL f
 * **Aggregations** – `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`.
 * **Joins** – `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`.
 * **Data Cleaning with SQL** – Handling duplicates, NULL values, and string operations.
-* **Intermediate Topics** – Subqueries, CTEs, window functions.
 * **Practice Exercises** – Example problems and solutions to reinforce concepts.
 
 * **Databse for practice** `create-bakery-db.sql` 
