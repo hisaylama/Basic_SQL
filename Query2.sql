@@ -1,4 +1,4 @@
-# Where
+# Using Where
 SELECT *
 FROM customers
 WHERE total_money_spent > 3000
