@@ -14,7 +14,8 @@ This repository contains practice scripts, queries, and notes from the **MySQL f
 * **Intermediate Topics** – Subqueries, CTEs, window functions.
 * **Practice Exercises** – Example problems and solutions to reinforce concepts.
 
----
+* **Databse for practice** `create-bakery-db.sql` 
+Downloaded from the [Alex The Analyst](https://www.analystbuilder.com/)
 
 ## 🛠️ Requirements
 
